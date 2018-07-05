@@ -13,6 +13,6 @@ function happyHolidayTo(string) {
 }
 function holidayCountdown(string) {
   var days ='20',
-  holiday = 'Mother\'s'
-  return `it\'s ${days} days until ${holiday}`
+  holiday = 'Mother\'s day'
+  return `Tt\'s ${days} days until ${holiday}!`
 }
